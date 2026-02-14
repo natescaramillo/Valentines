@@ -13,7 +13,7 @@
     /* FONT */
     @font-face {
         font-family: 'dreaming-outland';
-        src: url('./fonts/dreaming-outloud-pro-regular.otf');
+        src: url('dreaming-outloud-pro-regular.otf');
     }
 
     /* Shooting stars */
@@ -303,3 +303,4 @@
             max-width: 100%;
         }
     }
+
